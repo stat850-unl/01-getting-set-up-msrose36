@@ -8,7 +8,7 @@ This assignment assumes you have R, RStudio, and git installed successfully and 
 
 Steps:
 
-1. Clone this repository in RStudio, following the steps (starting from step 2) in [this section](https://happygitwithr.com/existing-github-first.html#new-rstudio-project-via-git-clone-1) of Happy Git with R. 
+1. Clone this repository in RStudio, following the steps (starting from step 2) in [this section](#) of Happy Git with R. 
 
 2. Add README.md to your repository if it is not already there. Make some change to README.md and commit your changes.
 
